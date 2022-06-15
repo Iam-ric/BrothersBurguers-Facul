@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<array>
+  <fornecedores>
+    <fornecedor>
+        <nome>Dois Irmãos</nome>
+        <telefone1>(11)98765-7843</telefone1>
+        <telefone2>(11)92145-3434</telefone2>
+        <email1>doisirmaos@gmail.com</email1>
+        <email2>doisirmaos2@gmail.com</email2>
+    </fornecedor>
+    <fornecedor>
+      <nome>Pão-Bom</nome>
+      <telefone1>(11)90000-1234</telefone1>
+      <telefone2>(11)11100-0000</telefone2>
+      <email1>paobom@gmail.com</email1>
+      <email2>paobom2@gmail.com</email2>
+    </fornecedor>
+  </fornecedores>
+</array>

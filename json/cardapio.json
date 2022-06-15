@@ -1,0 +1,28 @@
+[
+
+    {
+        "id": 1,
+        "nome": "X-Salada",
+        "imagem": "img\\hamburguers\\01.png",
+        "valor": 18.99,
+        "descricao": "Pão, Alface, Tomate, Hamburguer"
+        
+    },
+
+    {
+        "id": 2,
+        "nome": "X-Bacon",
+        "imagem": "img\\hamburguers\\03.png",
+        "valor": 18.99,
+        "descricao": "Pão, Bacon, Hamburguer, Maionese-verde"
+    },
+
+    {
+        "id": 3,
+        "nome": "X-Frango",
+        "imagem": "img\\hamburguers\\02.png",
+        "valor": 17.99,
+        "descricao": "Pão, Bacon, Frango-desfiado, Maionese-verde"
+    }
+
+]
